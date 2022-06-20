@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/MCFAMILY/Server/ProjectRPG/spigot-1.15.2.jar"/>
+	<classpathentry kind="lib" path="E:/MCFAMILY/Server/ProjectRPG/BungeeCord.jar"/>
+	<classpathentry kind="lib" path="E:/MCFAMILY/Server/ProjectRPG/PlaceholderAPI-2.10.9.jar"/>
+	<classpathentry kind="lib" path="E:/MCFAMILY/Server/ProjectRPG/EssentialsX-2.18.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/MCFAMILY/Server/ProjectRPG/Vault.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
